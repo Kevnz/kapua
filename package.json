@@ -1,0 +1,18 @@
+{
+  "name": "kapua",
+  "version": "1.0.0",
+  "description": "HTTP client for restful API calls",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kevin Isom<kevin.isom@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "delay": "^2.0.0",
+    "jest-cli": "^22.1.4"
+  },
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
