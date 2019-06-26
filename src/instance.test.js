@@ -1,4 +1,4 @@
-const delay = require('delay');
+const { delay } = require('@kev_nz/async-tools');
 
 const personSchema = {
   title: 'Person',
